@@ -1,0 +1,6 @@
+body {
+    background: #000;
+    background: #fff url() 0 0 no-repeat;
+    border: 1px solid #000;
+    border-top: 1px solid #000;
+}
